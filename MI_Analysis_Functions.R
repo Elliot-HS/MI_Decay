@@ -32,7 +32,7 @@ library(ggplot2)
 
 #Please ensure that your directory is set to MI_Code_Master before trying to import data. 
 #Alternatively, provide an extended file path in read.csv().
-getwd() #"/Users/user/Desktop/MI_Code_Master"
+getwd() #"/Users/user/Desktop/MI_Decay"
 #setwd() #If required.
 
 example_data<-read.csv("example_data.csv") #Import data.
