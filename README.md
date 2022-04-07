@@ -3,7 +3,7 @@
 
 MI_Decay acts as a master folder containing both trial data and custom codes used for MI Decay Analyses - Associated with the manuscript: 
 
-To run codes, please download a version of RStudio (https://www.rstudio.com/) (This code was written in RStudio Version 1.2.5001).
+To run codes, please download a version of RStudio (https://www.rstudio.com/) (This code was written in RStudio Version 1.2.5001). Total installation time ~ 10 minutes.
 
 Codes were written and tested on RStudio (Version 1.2.5001) on operating system macOS Monterey 12.3.1.
 
