@@ -1,7 +1,7 @@
 
 
 
-MI_Code_Master acts as a master folder containing both trial data and custom codes used for MI Decay Analyses - Associated with the manuscript: 
+MI_Decay acts as a master folder containing both trial data and custom codes used for MI Decay Analyses - Associated with the manuscript: 
 
 To run codes, please download a version of RStudio (https://www.rstudio.com/) (This code was written in RStudio Version 1.2.5001).
 
