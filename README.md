@@ -9,7 +9,7 @@ Codes were written and tested on RStudio (Version 1.2.5001) on operating system 
 
 To run the code, open RStudio and open file MI_Analysis_Functions.R. Please keep the file MI_Analysis_Functions.R in the same folder as the example dataset (example_data.csv) to ensure you can easily import the data into R.
 
-MI_Analysis_Functions.R contains descriptions of each function, and contains examples of how the functions should run using the example data example_data.csv.
+MI_Analysis_Functions.R contains descriptions of each function, and contains examples of how the functions should run using the example data example_data.csv. The output for this data should reflect data presented for Fanle in the main manuscript.
 
 For any functions which take substantial periods of time (over 5 minutes) to run, a short warning is provided below the function, before it is run on example data.
 
