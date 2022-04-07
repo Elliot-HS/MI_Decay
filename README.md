@@ -1,5 +1,17 @@
-# MI_Decay
-Code for MI Decay Analyses - Associated with the manuscript: 
 
-For any issues, contact the corresponding author Elliot Howard-Spink by email at Elliot.Howard-Spink@zoo.ox.ac.uk
+
+
+MI_Code_Master acts as a master folder containing both trial data and custom codes used for MI Decay Analyses - Associated with the manuscript: 
+
+To run codes, please download a version of RStudio (https://www.rstudio.com/) (This code was written in RStudio Version 1.2.5001).
+
+Codes were written and tested on RStudio (Version 1.2.5001) on operating system macOS Monterey 12.3.1.
+
+To run the code, open RStudio and open file MI_Analysis_Functions.R. Please keep the file MI_Analysis_Functions.R in the same folder as the example dataset (example_data.csv) to ensure you can easily import the data into R.
+
+MI_Analysis_Functions.R contains descriptions of each function, and contains examples of how the functions should run using the example data example_data.csv.
+
+For any functions which take substantial periods of time (over 5 minutes) to run, a short warning is provided below the function, before it is run on example data.
+
+For any issues, contact the corresponding author Elliot Howard-Spink by email at Elliot.Howard-Spink@zoo.ox.ac.uk.
 
