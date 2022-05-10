@@ -1,7 +1,7 @@
-####Custom R Functions to Accompany MI Decay Paper####
+####Custom R Functions to Accompany Manuscript: Syntactic complexity of chimpanzee action in a natural tool-use task ####
 #### Author: Elliot Howard-Spink ####
 #### Date Created: 7.4.2022 ####
-#### Date Last Edited: 7.4.2022 ####
+#### Date Last Edited: 10.5.2022 ####
 
 
 
