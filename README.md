@@ -1,7 +1,7 @@
 
 
 
-MI_Decay acts as a master folder containing both trial data and custom codes used for MI Decay Analyses - Associated with the manuscript: Howard-Spink et al. (2022) "Syntactic complexity of chimpanzee action in a natural tool task".
+MI_Decay acts as a master folder containing both trial data and custom codes used for MI Decay Analyses - Associated with the manuscript: Howard-Spink et al. (2022) "Syntactic complexity of chimpanzee action in a natural tool-use task".
 
 To run the code, please download a version of RStudio (https://www.rstudio.com/) (This code was written in RStudio Version 1.2.5001). Total installation time ~ 10 minutes.
 
